@@ -1,0 +1,7 @@
+
+.waterfall img {
+    position: absolute;
+    width: 100px;
+    margin: 5px;
+    transition: all 0.3s;
+}
